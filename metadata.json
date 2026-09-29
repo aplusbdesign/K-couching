@@ -1,0 +1,6 @@
+{
+  "name": "KAC 코칭로그",
+  "description": "KAC 한국코치협회 인증 50시간 실습 코칭일지 및 실시간 타임로그 기록 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
